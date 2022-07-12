@@ -318,7 +318,7 @@ height: 30px;
 border: 1px solid #2c71b8;
 position: absolute;
 top: 15%;
-left: 90%;
+right: 0;
 transform: translate(-50%, -50%);
 cursor: pointer;
 }
@@ -333,7 +333,7 @@ height: 30px;
 border: 1px solid #2c71b8;
 position: absolute;
 top: 40%;
-left: 90%;
+right: 0;
 transform: translate(-50%, -50%);
 cursor: pointer;
 }
